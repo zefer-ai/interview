@@ -1,0 +1,8 @@
+{
+  products: {
+    [productId]: {
+      id: productId,
+      name: 'some name'
+    }
+  }
+}
